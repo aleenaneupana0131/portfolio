@@ -1,2 +1,2 @@
 # portfolio
-Personal portfolio which will include my projects and experiences
+Personal portfolio which will include my projects and experiences.
